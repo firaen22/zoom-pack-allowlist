@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-16T08:30:00Z",
+  "updated_at": "2026-05-16T09:07:33.336Z",
   "approved": [
     {
       "deviceId": "ed30a956-f4e5-429d-ad6a-1e6b7bb8b9fa",
@@ -9,5 +9,12 @@
     }
   ],
   "rejected": [],
-  "pending": []
+  "pending": [
+    {
+      "deviceId": "test-write-1778922452",
+      "deviceName": "BOT-TEST",
+      "userName": "WriteTest",
+      "requestedAt": "2026-05-16T09:07:33.336Z"
+    }
+  ]
 }
