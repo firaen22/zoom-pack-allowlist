@@ -1,0 +1,13 @@
+{
+  "updated_at": "2026-05-16T08:30:00Z",
+  "approved": [
+    {
+      "deviceId": "ed30a956-f4e5-429d-ad6a-1e6b7bb8b9fa",
+      "deviceName": "GEORGIO-PC",
+      "userName": "Georgio",
+      "approvedAt": "2026-05-16T08:30:00Z"
+    }
+  ],
+  "rejected": [],
+  "pending": []
+}
