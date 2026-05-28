@@ -1,11 +1,18 @@
 {
-  "updated_at": "2026-05-28T15:53:47.450Z",
+  "updated_at": "2026-05-28T15:54:32.662Z",
   "approved": [
     {
       "deviceId": "ed30a956-f4e5-429d-ad6a-1e6b7bb8b9fa",
       "deviceName": "GEORGIO-PC",
       "userName": "Georgio",
       "approvedAt": "2026-05-16T08:30:00Z"
+    },
+    {
+      "deviceId": "76B38DA4-C6D1-5AAD-B3A4-F8FAE7FE698D",
+      "deviceName": "HoneybundeMac-mini",
+      "userName": "honeybun",
+      "requestedAt": "2026-05-28T15:53:47.449Z",
+      "approvedAt": "2026-05-28T15:54:32.662Z"
     }
   ],
   "rejected": [],
@@ -15,12 +22,6 @@
       "deviceName": "BOT-TEST",
       "userName": "WriteTest",
       "requestedAt": "2026-05-16T09:07:33.336Z"
-    },
-    {
-      "deviceId": "76B38DA4-C6D1-5AAD-B3A4-F8FAE7FE698D",
-      "deviceName": "HoneybundeMac-mini",
-      "userName": "honeybun",
-      "requestedAt": "2026-05-28T15:53:47.449Z"
     }
   ]
 }
