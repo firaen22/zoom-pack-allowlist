@@ -1,34 +1,40 @@
 {
-  "updated_at": "2026-05-29T00:00:00.000Z",
   "approved": [
     {
+      "approvedAt": "2026-05-16T08:30:00Z",
       "deviceId": "ed30a956-f4e5-429d-ad6a-1e6b7bb8b9fa",
       "deviceName": "GEORGIO-PC",
-      "userName": "Georgio",
-      "approvedAt": "2026-05-16T08:30:00Z"
+      "userName": "Georgio"
     },
     {
+      "approvedAt": "2026-05-28T15:54:32.662Z",
       "deviceId": "76B38DA4-C6D1-5AAD-B3A4-F8FAE7FE698D",
       "deviceName": "HoneybundeMac-mini",
-      "userName": "honeybun",
       "requestedAt": "2026-05-28T15:53:47.449Z",
-      "approvedAt": "2026-05-28T15:54:32.662Z"
+      "userName": "honeybun"
     },
     {
+      "approvedAt": "2026-05-29T00:00:00.000Z",
       "deviceId": "76b38da4-c6d1-5aad-b3a4-f8fae7fe698d",
       "deviceName": "HoneybundeMac-mini",
-      "userName": "honeybun",
-      "approvedAt": "2026-05-29T00:00:00.000Z",
-      "note": "lowercase alias - same device as 76B38DA4"
+      "note": "lowercase alias - same device as 76B38DA4",
+      "userName": "honeybun"
+    },
+    {
+      "deviceId": "7C666B16-9402-49D7-9BBC-745D22419754",
+      "deviceName": "Unknown-Windows",
+      "userName": "Unknown",
+      "approvedAt": "2026-05-29T00:00:00.000Z"
     }
   ],
-  "rejected": [],
   "pending": [
     {
       "deviceId": "test-write-1778922452",
       "deviceName": "BOT-TEST",
-      "userName": "WriteTest",
-      "requestedAt": "2026-05-16T09:07:33.336Z"
+      "requestedAt": "2026-05-16T09:07:33.336Z",
+      "userName": "WriteTest"
     }
-  ]
+  ],
+  "rejected": [],
+  "updated_at": "2026-05-29T00:00:00.000Z"
 }
