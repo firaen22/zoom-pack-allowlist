@@ -25,6 +25,13 @@
       "deviceId": "7C666B16-9402-49D7-9BBC-745D22419754",
       "deviceName": "GEORGIO-PC-Windows",
       "userName": "Georgio"
+    },
+    {
+      "deviceId": "COWORK-13BDCD47-0C72-427D-91FD-86607676670B",
+      "deviceName": "honeybun-cowork",
+      "userName": "honeybun",
+      "requestedAt": "2026-06-14T13:38:38.805Z",
+      "approvedAt": "2026-06-14T13:39:17.585Z"
     }
   ],
   "pending": [
@@ -33,14 +40,8 @@
       "deviceName": "BOT-TEST",
       "requestedAt": "2026-05-16T09:07:33.336Z",
       "userName": "WriteTest"
-    },
-    {
-      "deviceId": "COWORK-13BDCD47-0C72-427D-91FD-86607676670B",
-      "deviceName": "honeybun-cowork",
-      "userName": "honeybun",
-      "requestedAt": "2026-06-14T13:38:38.805Z"
     }
   ],
   "rejected": [],
-  "updated_at": "2026-06-14T13:38:38.805Z"
+  "updated_at": "2026-06-14T13:39:17.585Z"
 }
