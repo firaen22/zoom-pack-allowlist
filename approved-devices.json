@@ -31,7 +31,7 @@
       "deviceName": "honeybun-cowork",
       "userName": "honeybun",
       "requestedAt": "2026-06-14T13:38:38.805Z",
-      "approvedAt": "2026-06-14T13:39:17.585Z"
+      "approvedAt": "2026-06-14T13:47:57.895Z"
     }
   ],
   "pending": [
@@ -49,5 +49,5 @@
     }
   ],
   "rejected": [],
-  "updated_at": "2026-06-14T13:42:50.429Z"
+  "updated_at": "2026-06-14T13:47:57.895Z"
 }
