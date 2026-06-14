@@ -40,8 +40,14 @@
       "deviceName": "BOT-TEST",
       "requestedAt": "2026-05-16T09:07:33.336Z",
       "userName": "WriteTest"
+    },
+    {
+      "deviceId": "COWORK-11F0AE24-91AD-486B-9CDF-12695A025E64",
+      "deviceName": "honeybun-cowork",
+      "userName": "honeybun",
+      "requestedAt": "2026-06-14T13:42:50.429Z"
     }
   ],
   "rejected": [],
-  "updated_at": "2026-06-14T13:39:17.585Z"
+  "updated_at": "2026-06-14T13:42:50.429Z"
 }
